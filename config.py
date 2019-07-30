@@ -1,4 +1,5 @@
 import os
+
 class Config:
     '''
     General configuration for the parent class
